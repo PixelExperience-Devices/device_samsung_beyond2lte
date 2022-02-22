@@ -25,6 +25,7 @@ TARGET_SCREEN_WIDTH := 1440
 TARGET_HAVE_FOD := true
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_FACE_UNLOCK_SUPPORTED := true
+TARGET_SUPPORTS_QUICK_TAP := true
 
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := aosp_beyond2lte
